@@ -84,4 +84,7 @@ In javaScript:
 ### Arrays
 A simple data strucutre for storing closely related data.
 
-PROS:
+PROS
+- Use the same named reference for all data points.
+- Reference individual data points using a numerical index.
+- Don't need a preset number of values.
