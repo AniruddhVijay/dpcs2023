@@ -1,5 +1,5 @@
-Unit 01 - First programs
-Lesson 00 - Learning through an example
+# Unit 01 - First programs
+# Lesson 00 - Learning through an example
 
 What will we be using?
 - HTML (HyperText Markup Language)
